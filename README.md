@@ -13,7 +13,6 @@
   
 </head>
 <body>
-  <!DOCTYPE html>
 <html lang="en" id="html" dir="rtl">
 <head>
   <meta charset="UTF-8" />
